@@ -1,0 +1,23 @@
+# Code Composer Studio / TI build output
+Debug/
+Release/
+*.obj
+*.out
+*.map
+*.asm
+*.lst
+*.d
+
+# CCS workspace metadata
+.settings/
+.launches/
+.metadata/
+
+# Editor and OS files
+.vscode/
+.idea/
+*.bak
+*.tmp
+*.log
+Thumbs.db
+.DS_Store
